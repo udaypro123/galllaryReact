@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/galllaryReact/static/css/main.cf3522d6.css",
+    "main.js": "/galllaryReact/static/js/main.265230df.js",
+    "index.html": "/galllaryReact/index.html",
+    "main.cf3522d6.css.map": "/galllaryReact/static/css/main.cf3522d6.css.map",
+    "main.265230df.js.map": "/galllaryReact/static/js/main.265230df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3522d6.css",
+    "static/js/main.265230df.js"
+  ]
+}
